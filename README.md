@@ -6,7 +6,8 @@ https://drive.google.com/file/d/1FVP756l6OY0O9dOTsTsUzynmLiQ1oF-d/view?usp=drive
 ### Dia 2 - GitHub e Colaboração em projetos
 https://drive.google.com/file/d/1vBJeRQf47GcktSTPnCuc6YjGrJEFvapR/view?usp=drive_link
 
-##Extras
+## Extras
+https://roadmap.sh/
 
 ## Guia de Commits Semânticos
 https://blog.geekhunter.com.br/implementar-o-commit-semantico/
