@@ -105,8 +105,14 @@ main h2, main p {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 1rem;
+    gap: 1rem;    
+    overflow: auto;
 }
+
+.social-wall::-webkit-scrollbar {
+    display: none;
+}
+
 
 .social-card {
     background-color: var(--card-background);
